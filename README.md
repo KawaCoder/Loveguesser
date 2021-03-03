@@ -23,7 +23,13 @@ $ java -jar loveGuesser.jar
 No.
 
 ## Copyrights?
-https://github.com/DR34M-M4K3R/
-
+Program made by DR34M-M4K3R:
+https://github.com/DR34M-M4K3R/</p>
+</p>
+.exe icon made by Pixel Perfect (icon Minds):</p>
+https://www.facebook.com/iconsmind7</p>
+https://www.flaticon.com/authors/pixel-perfect
+</p>
+</p>
 
 ***Have fun!***
