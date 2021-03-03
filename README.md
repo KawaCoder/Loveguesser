@@ -2,7 +2,7 @@
 A short program to see the love compatibility with the person you love &lt;3
 
 ## How to use it?
-As you can see, there is three files on the repository. One is a .exe file, </p>
+As you can see, there is four files on the repository. There is a readme.md file, not important. One is a .exe file, </p>
 to run it on windows. There is also a .jar, to run it on every OS with java (8+)</p>
 installed. And there is a .java, to see the raw code. This is not an executable.</p>
 
