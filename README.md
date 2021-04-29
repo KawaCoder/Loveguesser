@@ -37,10 +37,11 @@ https://www.facebook.com/iconsmind7</p>
 https://www.flaticon.com/authors/pixel-perfect
 </p>
 </p>
+## Contact
 
 [![hey](https://img.shields.io/badge/Contact%20me%20on%20discord-181717?style=for-the-badge&logo=discord)](https://discord.com/users/725672294692945991)
 
-## Comment puis-je contribuer?
+## How can i contribute?
 
 To help contibuate, you can [contact me on discord](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.md#contact),I am available all the time, or make a donation (buy me a coffee). I would be extremely grateful!
 <br/><br/>
