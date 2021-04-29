@@ -38,4 +38,12 @@ https://www.flaticon.com/authors/pixel-perfect
 </p>
 </p>
 
+[![hey](https://img.shields.io/badge/Contact%20me%20on%20discord-181717?style=for-the-badge&logo=discord)](https://discord.com/users/725672294692945991)
+
+## Comment puis-je contribuer?
+
+To help contibuate, you can [contact me on discord](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.md#contact),I am available all the time, or make a donation (buy me a coffee). I would be extremely grateful!
+<br/><br/>
+<a href="https://www.buymeacoffee.com/DR34MM4K3R" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 ***Have fun!***
